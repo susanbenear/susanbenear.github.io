@@ -2,11 +2,7 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-   - title: "about"
-     url: https://susanbenear.github.io/about/
-   - title: "posts"
-     url: https://susanbenear.github.io/posts/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  # - title: "about"
+ #    url: https://susanbenear.github.io/about/
+  # - title: "posts"
+   #  url: https://susanbenear.github.io/posts/
