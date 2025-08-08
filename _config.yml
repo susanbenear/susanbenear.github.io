@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Susan Benear"
-description              : #"An amazing website."
+name                     : "Yusan Benear"
+description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,50 +115,50 @@ analytics:
 author:
   name             : "susan benear"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "cognitive developmental neuroscientist studying how kids learn and remember stuff."
-  location         : "new york, ny"
+  bio              : "cognitive developmental neuroscientist researching hows kids learn and remember stuff"
+  location         : "brooklyn, new york"
   email            :
   links:
     - label: "email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:susanbenear@nyu.edu"
    # - label: "Website"
-    #  icon: "fas fa-fw fa-link"
+   #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "bluesky"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://bsky.app/profile/susanbenear.bsky.social"
-  #  - label: "Facebook"
-   #   icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-   # - label: "GitHub"
-  #    icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-  #  - label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   # url: "https://twitter.com/"
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url: "https://facebook.com/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   # url: "https://github.com/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url: "https://instagram.com/"
 
 # Site Footer
 footer:
-  # links:
-  #   - label: "Twitter"
-  #     icon: "fab fa-fw fa-twitter-square"
-  #     # url:
-  #   - label: "Facebook"
-  #     icon: "fab fa-fw fa-facebook-square"
-  #     # url:
-  #   - label: "GitHub"
-  #     icon: "fab fa-fw fa-github"
-  #     # url:
-  #   - label: "GitLab"
-  #     icon: "fab fa-fw fa-gitlab"
-  #     # url:
-  #   - label: "Bitbucket"
-  #     icon: "fab fa-fw fa-bitbucket"
-  #     # url:
-  #   - label: "Instagram"
-  #     icon: "fab fa-fw fa-instagram"
-  #     # url:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      # url:
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
+    #   # url:
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
+    #   # url:
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url:
   since: "2025"
 
 
