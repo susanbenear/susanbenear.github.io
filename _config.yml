@@ -114,19 +114,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "susan benear"
+  name             : "Susan Benear"
   avatar           : "/assets/images/benearimage.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "researcher studying hows kids learn and remember stuff"
-  location         : "brooklyn, new york"
+  bio              : "Researcher studying hows kids learn and remember stuff"
+  location         : "Brooklyn, NY"
   email            :
   links:
-    - label: "email"
+    - label: "Email: susanbenear@nyu.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:susanbenear@nyu.edu"
-    - label: "linkedin"
+      #url: "mailto:susanbenear@nyu.edu"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/susan-benear-phd-748697251/"      
-    - label: "bluesky"
+    - label: "Bluesky"
       icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/susanbenear.bsky.social"
     # - label: "Twitter"
