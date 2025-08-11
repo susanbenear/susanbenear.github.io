@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
 # Site Settings
@@ -70,9 +70,7 @@ analytics:
 author:
   name             : "Susan Benear, Ph.D."
   avatar           : "/assets/images/benearimage.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : |
-                   postdoc studying hows kids 
-                   learn and remember stuff
+  bio              : "postdoc studying hows kids learn and remember stuff"
   location         : "Brooklyn, NY"
   email            :
   links:

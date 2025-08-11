@@ -28,9 +28,9 @@ Newcombe, N.S., <b>Benear, S.L.,</b> Ngo, C.T., & Olson, I.R. (2024). Memory in 
 
 <b>Benear, S.L.*,</b> Horwath, E.A.*, Cowan, E., Camacho, M.C., Ngo, C.T., Newcombe, N.S., Olson, I.R., Perlman, S.B., & Murty, V.P. (2022). Children show adult-like hippocampal pattern similarity for familiar but not novel events. Brain Research. <a href="https://doi.org/10.1016/j.brainres.2022.147991">Publication.</a>
 
-<b>2021</b>
+<b>2021
 
-<b>Benear, S.L.,</b> Ngo, C.T., Olson, I.R., & Newcombe, N.S. (2021). Understanding relational binding in early childhood: Interacting effects of overlap and delay. Journal of Experimental Child Psychology. <a href="https://doi.org/10.1016/j.jecp.2021.105152">Publication.</a>
+Benear, S.L.,</b> Ngo, C.T., Olson, I.R., & Newcombe, N.S. (2021). Understanding relational binding in early childhood: Interacting effects of overlap and delay. Journal of Experimental Child Psychology. <a href="https://doi.org/10.1016/j.jecp.2021.105152">Publication.</a>
 
 Ngo, C.T.*, <b>Benear, S.L.*,</b> Popal, H., Olson, I.R., Newcombe, N.S. (2021). Contingency of semantic generalization on episodic specificity: Variations across development. Current Biology. <a href="https://doi.org/10.1016/j.cub.2021.03.088">Publication.</a>
 
