@@ -2,7 +2,7 @@
 layout: single
 permalink: /publications/
 title: "Publications"
-author_profile: false
+author_profile: true
 ---
 
 *equal contribution  |  +mentee

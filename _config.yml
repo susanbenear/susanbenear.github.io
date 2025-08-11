@@ -74,7 +74,7 @@ author:
   location         : "Brooklyn, NY"
   email            :
   links:
-    - label: "Email: susanbenear@nyu.edu"
+    - label: "susanbenear@nyu.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:susanbenear@nyu.edu"
     - label: "Linkedin"
