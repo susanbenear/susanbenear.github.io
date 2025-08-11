@@ -39,7 +39,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : true // false (default)
+  hide                   : true # false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -70,13 +70,16 @@ analytics:
 author:
   name             : "Susan Benear"
   avatar           : "/assets/images/benearimage.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Researcher studying hows kids learn and remember stuff"
+  bio              : "psych postdoc studying hows kids learn and remember stuff"
   location         : "Brooklyn, NY"
   email            :
   links:
     - label: "susanbenear@nyu.edu"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:susanbenear@nyu.edu"
+    - label: "CV"      
+      icon: "fa fa-file-text"
+      url: "https://docs.google.com/document/d/1sTGvybid0eCLC-yas2zQ4gLxzsd-ph9XfEhSchQzolg/edit?usp=sharing"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/susan-benear-phd-748697251/"      
