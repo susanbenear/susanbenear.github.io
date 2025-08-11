@@ -165,6 +165,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _site
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -256,7 +257,7 @@ pagination:
     before: 2
     after: 2
 
-github: [metadata]
+#github: [metadata]
 
 # Plugins (previously gems:)
 plugins:
