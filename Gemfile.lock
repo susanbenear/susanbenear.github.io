@@ -326,6 +326,11 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-feed
+  jekyll-gist
+  jekyll-include-cache
+  jekyll-paginate
+  jekyll-sitemap
   minimal-mistakes-jekyll
 
 BUNDLED WITH
