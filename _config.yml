@@ -116,28 +116,26 @@ analytics:
 author:
   name             : "susan benear"
   avatar           : "/assets/images/benearimage.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "cognitive developmental neuroscientist researching hows kids learn and remember stuff"
+  bio              : "researcher studying hows kids learn and remember stuff"
   location         : "brooklyn, new york"
   email            :
   links:
     - label: "email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:susanbenear@nyu.edu"
-   # - label: "Website"
-   #   icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/susan-benear-phd-748697251/"      
+    - label: "bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/susanbenear.bsky.social"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
     #   # url: "https://twitter.com/"
-    # - label: "Facebook"
-    #   icon: "fab fa-fw fa-facebook-square"
-    #   # url: "https://facebook.com/"
     # - label: "GitHub"
     #   icon: "fab fa-fw fa-github"
     #   # url: "https://github.com/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   # url: "https://instagram.com/"
+
 
 # Site Footer
 # footer:

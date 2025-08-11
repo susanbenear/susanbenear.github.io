@@ -18,6 +18,9 @@ $indent-var: 1.3em !default;
 /* Modern font stack */
 /* https://github.com/system-fonts/modern-font-stacks */
 
+//UPDATE: Montserrat-first font stack, with relevant fallbacks
+$montserrat-stack: "Montserrat", "Avenir", "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+
 /* Sans serif - modern font stack */
 $system-ui: system-ui, sans-serif;
 $humanist: Seravek, 'Gill Sans Nova', Ubuntu, Calibri, 'DejaVu Sans', source-sans-pro, sans-serif;
@@ -65,9 +68,15 @@ $sans-serif: $default-sans-serif !default;
 $sans-serif-narrow: $sans-serif !default;
 $monospace: $default-monospace !default;
 
-$global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
-$caption-font-family: $serif !default;
+// $global-font-family: $sans-serif !default;
+// $header-font-family: $sans-serif !default;
+// $caption-font-family: $serif !default;
+
+// UPDATE: global fonts
+$global-font-family: $montserrat-stack;
+$header-font-family: $montserrat-stack;  // for headings
+$caption-font-family: $montserrat-stack; // for captions
+
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
