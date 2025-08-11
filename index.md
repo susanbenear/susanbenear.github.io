@@ -5,9 +5,9 @@ author_profile: true
 ---
 **Hi, I'm Susan!**
 
-I'm a cognitive neuroscientist currently working as a postdoc in Dr. Catherine Hartley's <a href="https://www.hartleylab.org/">lab</a> at NYU. My research focuses on learning and memory across development, which I examine using behavioral and neuroimaging techniques (fMRI, MEG), as well as computational modeling. Formulation basic questions about how human cognition takes shape, and launching projects to investigate those questions (with the help of federal funding!) has been an immense privilege so far, and along the way I've developed a love for statistics and data visualization as a way to understand and communicate about the world at large.
+I'm a cognitive neuroscientist currently working as a postdoc in Dr. Catherine Hartley's <a href="https://www.hartleylab.org/">lab</a> at NYU. My research focuses on learning and memory across development, which I examine using behavioral and neuroimaging techniques (fMRI, MEG), as well as computational modeling. 
 
-**Below is a brief summary of a few of my recent projects:**
+Formulating basic questions about how human cognition takes shape, and launching projects to investigate those questions (with the help of federal funding!) has been an immense privilege so far, and along the way I've developed a love for statistics and data visualization as a way to understand and communicate about the world at large. You can read about a few of my recent projects below.
 
 <p align="center">
   <img src="{{ '/assets/images/project1.png' | relative_url }}" alt="project1" width="400">
@@ -19,7 +19,7 @@ I'm a cognitive neuroscientist currently working as a postdoc in Dr. Catherine H
   <img src="{{ '/assets/images/project2.png' | relative_url }}" alt="project2" width="400">
 </p>
 
-**Neural representational patterns supporting reward-motivated memory shift across adolescence.** In this study, we examined how reward-associated memories are represented in the brain via pattern similarity analyses of fMRI data in 8-25-year-olds. We found reward information during encoding in VTC and in changes from encoding to retrieval in aHC in all participants. Adults’ memory benefitted from stability of aHC representations, while younger participants benefitted from representational drift and reward-related activation in VTA. Our findings demonstrate that reward modulates neural memory representations, and these patterns change with age. <a href="https://doi.org/10.31234/osf.io/h53qa_v2">Cohen*, Benear*, et al., pre-print</a>
+**Neural representational patterns supporting reward-motivated memory shift across adolescence.** In this study, we examined how reward-associated memories are represented in the brain via pattern similarity analyses of fMRI data in 8-25-year-olds. We found reward information during encoding in VTC and in changes from encoding to retrieval in aHC in all participants. Adults’ memory benefitted from stability of aHC representations, while younger participants benefitted from representational drift and reward-related activation in VTA. Our findings demonstrate that reward modulates neural memory representations, and these patterns change with age. <a href="https://doi.org/10.31234/osf.io/h53qa_v2">Cohen, Benear, et al., pre-print</a>
 
 <p align="center">
   <img src="{{ '/assets/images/project3.png' | relative_url }}" alt="project3" width="400">
