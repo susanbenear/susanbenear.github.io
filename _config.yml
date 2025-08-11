@@ -256,6 +256,7 @@ pagination:
     before: 2
     after: 2
 
+github: [metadata]
 
 # Plugins (previously gems:)
 plugins:
