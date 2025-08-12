@@ -5,7 +5,7 @@ title: "Recent Projects"
 author_profile: true
 ---
 
-Some of my recent and current work in Cate's lab, with links to posters or pre-prints.
+Some of my recent and current work, with links to posters or pre-prints.
 
 <p align="center">
   <img src="{{ '/assets/images/project1.png' | relative_url }}" alt="project1" width="300">
