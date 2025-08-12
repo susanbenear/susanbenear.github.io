@@ -7,7 +7,6 @@ author_profile: true
 
 *equal contribution  |  +mentee
 
-
 **Pre-prints**
 
 Cohen, A.O.\*, **Benear, S.L.\*,** Phaneuf-Hadd, C.V., Davachi, L., & Hartley, C.A. (under review). Neural representations of reward-related memories shift across development. <a href="https://osf.io/preprints/psyarxiv/h53qa">Pre-print.</a> 
@@ -16,7 +15,7 @@ Hartley, C.A., **Benear, S.L.,** & Heller, A.S. (invited, under review). Signatu
 
 **2024**
 
-**Benear, S.L.,** Onwukanjo, O.J.+, Olson, I.R., & Newcombe, N.S. (2024). Children’s memory for events: The challenge of free recall. *Journal of Cognitive Neuroscience*.* <a href="https://doi.org/10.1162/jocn_a_02221">Publication.</a>
+**Benear, S.L.,** Onwukanjo, O.J.+, Olson, I.R., & Newcombe, N.S. (2024). Children’s memory for events: The challenge of free recall. *Journal of Cognitive Neuroscience*. <a href="https://doi.org/10.1162/jocn_a_02221">Publication.</a>
 
 Newcombe, N.S., **Benear, S.L.,** Ngo, C.T., & Olson, I.R. (2024). Memory in Infancy and Childhood. In M. Kahana & A. Wagner (Eds.). *The Oxford Handbook of Human Memory*. Oxford Library of Psychology. <a href="https://doi.org/10.1093/oxfordhb/9780190917982.013.53">Publication.</a>
 
@@ -32,7 +31,7 @@ Newcombe, N.S., **Benear, S.L.,** Ngo, C.T., & Olson, I.R. (2024). Memory in Inf
 
 **Benear, S.L.,** Ngo, C.T., Olson, I.R., & Newcombe, N.S. (2021). Understanding relational binding in early childhood: Interacting effects of overlap and delay. *Journal of Experimental Child Psychology*. <a href="https://doi.org/10.1016/j.jecp.2021.105152">Publication.</a>
 
-Ngo, C.T.\*, **Benear, S.L.\*,** Popal, H., Olson, I.R., Newcombe, N.S. (2021). Contingency of semantic generalization on episodic specificity: Variations across development. *Current Biology. <a href="https://doi.org/10.1016/j.cub.2021.03.088">Publication.</a>
+Ngo, C.T.\*, **Benear, S.L.\*,** Popal, H., Olson, I.R., Newcombe, N.S. (2021). Contingency of semantic generalization on episodic specificity: Variations across development. *Current Biology*. <a href="https://doi.org/10.1016/j.cub.2021.03.088">Publication.</a>
 
 **2020**
 
