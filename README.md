@@ -1,1 +1,1 @@
-### site created using Minimal Mistakes theme via Jekyll
+Site created using the [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) theme via [Jekyll](https://jekyllrb.com/), with plenty of guidance from Iva Brunec's [tutorial](https://ivabrunec.github.io/blog/jekyll-website/).

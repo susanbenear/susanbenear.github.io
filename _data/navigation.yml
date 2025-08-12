@@ -2,7 +2,9 @@
 main:
   - title: "Home"
     url: https://susanbenear.github.io/
-  - title: "About"
-    url: https://susanbenear.github.io/about/
+  - title: "Projects"
+    url: https://susanbenear.github.io/projects/
   - title: "Publications"
     url: https://susanbenear.github.io/publications/
+  - title: "About"
+    url: https://susanbenear.github.io/about/
