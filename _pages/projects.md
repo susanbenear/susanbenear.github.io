@@ -1,11 +1,9 @@
 ---
 layout: single
 permalink: /projects/
-title: "Current Projects"
+title: "Recent Projects"
 author_profile: true
 ---
-
-**Here are a few projects I've been working on lately.**
 
 <p align="center">
   <img src="{{ '/assets/images/project1.png' | relative_url }}" alt="project1" width="400">
