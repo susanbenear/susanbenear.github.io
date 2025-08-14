@@ -5,7 +5,7 @@ title: "Recent Projects"
 author_profile: true
 ---
 
-Some of my recent and current work, with links to posters or pre-prints.
+Lately, I've been particularly interested in the effect of reward on reinforcement learning and memory specificity and how this changes across childhood and adolescence, as well as how these cognitive functions can be operationalized and examined in the real world and might relate to mental health.
 
 <p align="center">
   <img src="{{ '/assets/images/project1.png' | relative_url }}" alt="project1" width="300">
