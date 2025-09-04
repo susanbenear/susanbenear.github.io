@@ -11,7 +11,9 @@ author_profile: true
 
 Cohen, A.O.\*, **Benear, S.L.\*,** Phaneuf-Hadd, C.V., Davachi, L., & Hartley, C.A. (under review). Neural representations of reward-related memories shift across development. <a href="https://osf.io/preprints/psyarxiv/h53qa">Pre-print.</a> 
 
-Hartley, C.A., **Benear, S.L.,** & Heller, A.S. (invited, under review). Signatures of reinforcement learning in natural behavior. *Current Directions in Psychological Science*. <a href="https://osf.io/preprints/psyarxiv/axyqu_v1">Pre-print.</a>
+**2025**
+
+Hartley, C.A., **Benear, S.L.,** & Heller, A.S. (in press). Signatures of reinforcement learning in natural behavior. *Current Directions in Psychological Science*. <a href="https://osf.io/preprints/psyarxiv/axyqu_v1">Pre-print.</a>
 
 **2024**
 
