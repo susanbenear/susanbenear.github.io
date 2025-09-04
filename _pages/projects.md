@@ -5,7 +5,7 @@ title: "Recent Projects"
 author_profile: true
 ---
 
-Lately, I've been particularly interested in the effect of reward on reinforcement learning and memory specificity and how this changes across childhood and adolescence, as well as how these cognitive functions can be operationalized and examined in the real world and might relate to mental health.
+Lately, I've been particularly interested in the effects of reward and novelty on reinforcement learning and memory specificity, as well as how this changes across adolescence.
 
 <p align="center">
   <img src="{{ '/assets/images/project1.png' | relative_url }}" alt="project1" width="300">
