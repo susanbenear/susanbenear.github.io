@@ -5,7 +5,7 @@ title: "Recent Projects"
 author_profile: true
 ---
 
-Lately, I've been particularly interested in the effects of reward and novelty on reinforcement learning and memory specificity, as well as how this changes across adolescence.
+Lately, I've been particularly interested in the effects of reward and novelty on reinforcement learning and memory specificity, as well as how this changes across development.
 
 <p align="center">
   <img src="{{ '/assets/images/project1.png' | relative_url }}" alt="project1" width="300">
