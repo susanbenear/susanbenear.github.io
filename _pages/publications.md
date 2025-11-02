@@ -13,7 +13,7 @@ Cohen, A.O.\*, **Benear, S.L.\*,** Phaneuf-Hadd, C.V., Davachi, L., & Hartley, C
 
 **2025**
 
-Hartley, C.A., **Benear, S.L.,** & Heller, A.S. (in press). Signatures of reinforcement learning in natural behavior. *Current Directions in Psychological Science*. <a href="https://osf.io/preprints/psyarxiv/axyqu_v1">Pre-print.</a>
+Hartley, C.A., **Benear, S.L.,** & Heller, A.S. (2025). Signatures of reinforcement learning in natural behavior. *Current Directions in Psychological Science*. <a href="https://doi.org/10.1177/09637214251381193">Publication.</a>
 
 **2024**
 
