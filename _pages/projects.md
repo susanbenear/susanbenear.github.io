@@ -1,11 +1,11 @@
 ---
 layout: single
 permalink: /projects/
-title: "Recent Projects"
+title: "Recent Research"
 author_profile: true
 ---
 
-Lately, I've been particularly interested in the effects of reward and novelty on reinforcement learning and memory specificity, as well as how this changes across development.
+In my current role as a postdoc in Catherine Hartley's <a href="https://www.hartleylab.org/">lab</a> at NYU, my research focuses on how reinforcement learning and episodic memory are instantiated in real-world contexts across adolescent development. Lately, I've been particularly interested in the effects of reward and novelty on reinforcement learning and memory specificity, as well as how this changes across development. See below for a summary of a few recent projects, with links to posters/pre-prints for more information.
 
 <p align="center">
   <img src="{{ '/assets/images/project1.png' | relative_url }}" alt="project1" width="300">
