@@ -74,13 +74,13 @@ author:
   location         : "New York, NY"
   email            :
   links:
-    - label: "susanbenear@gmail.com"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:susanbenear@gmail.com"
     - label: "CV"      
       icon: "fa fa-file-text"
       url: "https://docs.google.com/document/d/1sTGvybid0eCLC-yas2zQ4gLxzsd-ph9XfEhSchQzolg/edit?usp=sharing"
-    - label: "Linkedin"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/susan-benear-phd-748697251/"      
     #- label: "Bluesky"
