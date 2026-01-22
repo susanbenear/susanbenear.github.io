@@ -7,9 +7,9 @@ author_profile: true
 
 *equal contribution  |  +mentee
 
-**Pre-prints**
+**2026**
 
-Cohen, A.O.\*, **Benear, S.L.\*,** Phaneuf-Hadd, C.V., Davachi, L., & Hartley, C.A. (under review). Neural representations of reward-related memories shift across development. <a href="https://osf.io/preprints/psyarxiv/h53qa">Pre-print.</a> 
+Cohen, A.O.\*, **Benear, S.L.\*,** Phaneuf-Hadd, C.V., Davachi, L., & Hartley, C.A. (in press). Neural representations of reward-related memories shift across development. *Journal of Neuroscience*. <a href="https://osf.io/preprints/psyarxiv/h53qa">Pre-print.</a> 
 
 **2025**
 
